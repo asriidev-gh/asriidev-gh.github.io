@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.436bf8be.chunk.js",
-    "main.js.map": "/static/js/main.436bf8be.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7cae13df.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7cae13df.js.map",
-    "static/js/2.fc5d49dc.chunk.js": "/static/js/2.fc5d49dc.chunk.js",
-    "static/js/2.fc5d49dc.chunk.js.map": "/static/js/2.fc5d49dc.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b5c9af880565dffa942d12d20ed2d7d0.js": "/precache-manifest.b5c9af880565dffa942d12d20ed2d7d0.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.fc5d49dc.chunk.js.LICENSE.txt": "/static/js/2.fc5d49dc.chunk.js.LICENSE.txt"
+    "main.js": "/asriidev-gh/static/js/main.30bec15f.chunk.js",
+    "main.js.map": "/asriidev-gh/static/js/main.30bec15f.chunk.js.map",
+    "runtime-main.js": "/asriidev-gh/static/js/runtime-main.a75667a9.js",
+    "runtime-main.js.map": "/asriidev-gh/static/js/runtime-main.a75667a9.js.map",
+    "static/js/2.03fc3d09.chunk.js": "/asriidev-gh/static/js/2.03fc3d09.chunk.js",
+    "static/js/2.03fc3d09.chunk.js.map": "/asriidev-gh/static/js/2.03fc3d09.chunk.js.map",
+    "index.html": "/asriidev-gh/index.html",
+    "precache-manifest.1354b8567d1df8b14be84732250c616b.js": "/asriidev-gh/precache-manifest.1354b8567d1df8b14be84732250c616b.js",
+    "service-worker.js": "/asriidev-gh/service-worker.js",
+    "static/js/2.03fc3d09.chunk.js.LICENSE.txt": "/asriidev-gh/static/js/2.03fc3d09.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7cae13df.js",
-    "static/js/2.fc5d49dc.chunk.js",
-    "static/js/main.436bf8be.chunk.js"
+    "static/js/runtime-main.a75667a9.js",
+    "static/js/2.03fc3d09.chunk.js",
+    "static/js/main.30bec15f.chunk.js"
   ]
 }
