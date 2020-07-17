@@ -1,4 +1,5 @@
 {
+  "homepage": "http://asriidev-gh.github.io/asriidev-gh.github.io",
   "name": "pf-react",
   "version": "0.1.0",
   "private": true,
@@ -8,9 +9,13 @@
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-particles-js": "^3.2.1",
     "react-scripts": "3.4.1"
   },
-  "scripts": {
+  "scripts": {    
+    "deploy": "npm run build",
+    "deployLive": "npm run cleanup && gh-pages -d build -b deploy -e build",
+    "cleanup": "rm -rf node_modules/gh-pages/.cache",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -30,5 +35,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }
